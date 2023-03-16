@@ -11,8 +11,8 @@
 
 Смог вызвать ошибку 500
 
-![Image alt](assets/error_500.PNG)
+![Image alt](assets/error_500.png)
 
 # Misconfiguration - Default Password
 
-![Image alt](assets/Misconfiguration - Default Password.PNG)
+![Image alt](assets/Misconfiguration - Default Password.png)
