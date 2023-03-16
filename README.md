@@ -15,4 +15,4 @@
 
 # Misconfiguration - Default Password
 
-![Image alt](assets/Misconfiguration - Default Password.png)
+![Image alt](https://github.com/sherlockteen/report_hw/blob/main/assets/Misconfiguration%20-%20Default%20Password.png)
